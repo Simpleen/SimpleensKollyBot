@@ -2,7 +2,7 @@
   "name": "simple",
   "version": "0.0.1",
   "description": "",
-  "main": "bot.js",},
+  "main": "bot.js",
   "author": "simpleen",
   "license": "ISC",
   "dependencies": {
